@@ -1,0 +1,17 @@
+{
+    "name": "isesame\/isesame_laravel_common",
+    "description": "公共代码包",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "isesame",
+            "email": "isesame_live@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Isesame\\IsesameLaravelCommon\\": "src"
+        }
+    }
+}
